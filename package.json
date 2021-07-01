@@ -12,7 +12,7 @@
 		"eslint": "^7.13.0",
 		"ganache-core": "^2.13.2",
 		"jquery": "3.6.0",
-		"openzeppelin-solidity": "4.1.0",
+		"openzeppelin-solidity": "4.2.0",
 		"solidity-coverage": "^0.7.16",
 		"truffle-assertions": "^0.9.1",
 		"truffle-contract": "4.0.31",
